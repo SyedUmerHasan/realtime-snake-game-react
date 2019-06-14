@@ -72,7 +72,7 @@ export default class PageLayout extends Component {
           <Content style={{ margin: '24px 16px 0', overflow: 'initial' }}>
             <div style={{ padding: 24, background: '#fff' }}>
 
-            <CardBoard boardSize="5"/>
+            <CardBoard boardSize="20"/>
 
             </div>
           </Content>
